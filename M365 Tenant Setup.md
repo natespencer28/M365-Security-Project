@@ -1,4 +1,4 @@
-## 👥 The Tenant Setup
+## 👥 M365 Tenant Setup
 
 ### 🔹 Demo Users
 - **Created 25 demo users** for testing and simulation.
