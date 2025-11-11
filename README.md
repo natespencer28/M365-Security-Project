@@ -25,4 +25,8 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 ## 💬 Collaboration
 Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spencer-133903153)
 
+##Table of Contents 
+- M365 Tenant Setup.md
+  
+
 
