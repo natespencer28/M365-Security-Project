@@ -33,6 +33,9 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 - Bulk-created users via CSV import and onboarded them into **Entra ID**.
 - Used PowerShell automation to streamline the process.
 
+- <img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/fa698229-b00b-4729-a0c8-0bc79307af80" />
+
+
 ### 🔹 User Settings
 - Configured **user security settings** to align with **Zero Trust principles**.  
   (e.g., MFA enforcement, limited admin privileges, secure sign-ins)
