@@ -14,7 +14,7 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 - Intune Device Management
 - Microsoft Defender Suite
 - CIS Benchmark Validation
-- Automation via Graph, Power Automate, Sentinel
+- **[M365 Automation](https://github.com/natespencer28/M365_Automation)**
 
 ## 📊 Progress Tracker
 | Area | Status | Notes |
