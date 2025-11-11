@@ -9,6 +9,8 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 - Automate security and compliance enforcement
 
 ## 🧩 Areas Covered
+- Tenant Setup
+  https://github.com/natespencer28/M365-Tenant-Setup
 - Entra ID (Azure AD)
 - Intune Device Management
 - Microsoft Defender Suite
