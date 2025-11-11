@@ -78,7 +78,9 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 - Documented all credentials securely for reference during testing.
 - Configured SSPR as well for self-service password resets.
 
-- <img width="388" height="165" alt="image" src="https://github.com/user-attachments/assets/c9b5197c-a523-4864-bb7c-7151a1dbca91" />
+<img width="387" height="188" alt="image" src="https://github.com/user-attachments/assets/369048cc-f8d6-403a-a4bc-f085967a342a" />
+
+<img width="388" height="165" alt="image" src="https://github.com/user-attachments/assets/c9b5197c-a523-4864-bb7c-7151a1dbca91" />
 
   
 
