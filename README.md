@@ -38,7 +38,6 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 
 ### 🔹 User Settings
 - Configured **user security settings** to align with **Zero Trust principles**.  
-  (e.g., MFA enforcement, limited admin privileges, secure sign-ins)
 
   <img width="936" height="804" alt="image" src="https://github.com/user-attachments/assets/881d581a-74fe-43f8-acab-7b7e17627f76" />
   <img width="904" height="723" alt="image" src="https://github.com/user-attachments/assets/fb253e7e-848f-4f2e-8100-37cb8916d17c" />
