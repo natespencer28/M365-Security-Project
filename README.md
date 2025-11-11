@@ -33,22 +33,28 @@ Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spe
 - Bulk-created users via CSV import and onboarded them into **Entra ID**.
 - Used PowerShell automation to streamline the process.
 
-- <img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/fa698229-b00b-4729-a0c8-0bc79307af80" />
+<img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/fa698229-b00b-4729-a0c8-0bc79307af80" />
 
 
 ### 🔹 User Settings
 - Configured **user security settings** to align with **Zero Trust principles**.  
 
-  <img width="936" height="804" alt="image" src="https://github.com/user-attachments/assets/881d581a-74fe-43f8-acab-7b7e17627f76" />
-  <img width="904" height="723" alt="image" src="https://github.com/user-attachments/assets/fb253e7e-848f-4f2e-8100-37cb8916d17c" />
+<img width="936" height="804" alt="image" src="https://github.com/user-attachments/assets/881d581a-74fe-43f8-acab-7b7e17627f76" />
+<img width="904" height="723" alt="image" src="https://github.com/user-attachments/assets/fb253e7e-848f-4f2e-8100-37cb8916d17c" />
 
 
 ### 🔹 Custom Branding
 - Implemented **custom branding** in Entra ID login pages.  
   This reduces phishing risk by helping users visually confirm legitimate login portals.
 
+<img width="1290" height="641" alt="image" src="https://github.com/user-attachments/assets/d7aba0f1-2713-4417-a606-0c2d8668a94d" />
+
+
 ### 🔹 Dynamic Groups
 - Created a **Dynamic Group** including all employee accounts for simplified management and automation.
+
+<img width="814" height="587" alt="image" src="https://github.com/user-attachments/assets/4c46be19-6531-4d76-abd9-773c1fad34ad" />
+
 
 ### 🔹 Session Timeout
 - Configured **idle session timeout** to **45 minutes** to reduce exposure from inactive sessions.
