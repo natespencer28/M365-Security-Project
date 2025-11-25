@@ -10,18 +10,9 @@ This project documents the end-to-end implementation of a secure Microsoft 365 t
 
 ## 🧩 Areas Covered
 - **[M365 Tenant Setup](https://github.com/natespencer28/M365-Tenant-Setup)**
-- Entra ID (Azure AD)
-- Intune Device Management
-- Microsoft Defender Suite
 - **[CIS Benchmark Validation](https://github.com/natespencer28/CIS-Benchmark-Validation/tree/main)**
 - **[M365 Automation](https://github.com/natespencer28/M365_Automation)**
 
-## 📊 Progress Tracker
-| Area | Status | Notes |
-|------|---------|-------|
-| Entra ID | 🚧 In Progress | Conditional Access and RBAC done |
-| Intune | 🚧 In Progress | Patch Rings & Compliance pending |
-| Defender | 🚧 In Progress | MDE Configured, MDCA Integration next |
 
 ## 💬 Collaboration
 Open a discussion or connect on [LinkedIn](https://linkedin.com/in/nathaniel-spencer-133903153)
